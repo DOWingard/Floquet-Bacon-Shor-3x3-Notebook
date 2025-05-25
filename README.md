@@ -18,7 +18,7 @@ https://ntrs.nasa.gov/api/citations/20240004137/downloads/Floquet_Bacon_Shor_MQC
 
 * The cycles are split into period 4 measurement schedule, where four weight-2 gauge checks are measured. The mod2 sum of the gauge checks suffice for a weight-6 stabilizer with a gauge defect
 * After one measurement cycle, the codespace reaches a steady state as the full instaneous stabilizer group has been constructed
-* Successive measurement cycles build a syndrome history, where the ancilla measurements are compared with the results from the prior measurement period to build a detector graph or hypergraph
+* Successive measurement cycles build a syndrome history, where the ancilla measurements are compared with the results from the prior measurement period to build a detector (hyper-)graph
 * The two logical qubits Z_s, and Z_d are measured and a minimum weight perfect matching solution is found for the detector (hyper-)graph
 * The logical measurements are decoded and the results are displayed, as well as the detector (hyper-)graph
 
