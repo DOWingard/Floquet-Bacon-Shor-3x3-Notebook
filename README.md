@@ -2,7 +2,7 @@
 
 ## THIS IS A WORK IN PROGRESS
 
-## This is a prototype notebook for a Floquet-Bacon-Shor code, built following Ref(1), which applies the work of Ref(2) AND Ref(3)
+## This is a prototype notebook for a Floquet-Bacon-Shor code, built following Ref(1), which applies the work of Ref(2) & Ref(3)
 
 The details related to periodic subsystems codes and the Instaneous Stabilizer Groups (ISG) are found in the following papers:
 
